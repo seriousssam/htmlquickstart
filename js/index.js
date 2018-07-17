@@ -1,5 +1,3 @@
-// https://hackernoon.com/prototypes-in-javascript-5bba2990e04b
-
 //Only run when the DOM is ready
 $(document).ready(function() {
   window.myPage = new MyPage();
